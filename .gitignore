@@ -2,6 +2,3 @@
 .env
 db/
 docker-launch.sh
-venv/
-server/static/
-cat_backend/server/__pycache__/
